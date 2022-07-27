@@ -20,6 +20,6 @@ What i have used:
 PHOTOS FROM PROJECT:
 
 ![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1243.JPG)
-![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1242.JPG)
-![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1241.JPG)
-![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1240.JPG)
+![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1240.jpg)
+![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1241.jpg)
+![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1240.jpg)
