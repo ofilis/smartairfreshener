@@ -2,7 +2,7 @@
 Smart Air Freshener Project with Home Assistant / ESPHome
 
 
-This is the project that i build for automate my dumb air freshener. Actually i made it about a few months ago and now shared all project.
+This is the project that i build for automate my dumb air freshener. Actually i made it about a few months ago and now shared wire diagrams and codes.
 
 here is a few videos in action:
 
