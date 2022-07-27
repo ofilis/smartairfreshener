@@ -1,0 +1,16 @@
+
+switch:
+  - platform: gpio
+    pin: D6
+    inverted: yes
+    name: "RelayButton"
+    id: relaybutton
+
+      
+button:    
+  - platform: template
+    name: freshener_templatee
+    on_press:
+      - switch.turn_on: relaybutton
+      - delay: 500ms
+      - switch.turn_off: relaybutton
