@@ -11,4 +11,15 @@ here is a few videos in action:
 - https://www.reddit.com/r/homeassistant/comments/w9fvco/this_is_a_smart_air_freshener_thanks_to_home/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
 
-display weather conditions and my office smart home data. In this project, mostly inspired on this thread: https://community.home-assistant.io/t/e-paper-display/ Have a look at all those great projects.
+What i have used:
+
+- Wenos D1 mini Dev. Card
+- 1 Channel 5V Relay Module
+- Air Freshener
+
+PHOTOS FROM PROJECT:
+
+![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1243.JPG)
+![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1242.HEIC)
+![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1241.HEIC)
+![Screenshot](https://github.com/ofilis/smartairfreshener/blob/main/photos/IMG_1240.HEIC)
