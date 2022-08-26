@@ -13,7 +13,7 @@ here is a few videos in action:
 
 What i have used:
 
-- Wenos D1 mini Dev. Card
+- Wemos D1 mini Dev. Card
 - 1 Channel 5V Relay Module
 - Air Freshener
 
